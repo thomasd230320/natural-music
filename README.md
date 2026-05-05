@@ -1,5 +1,5 @@
 # Natural Music
 
-A calm beige focus-audio app with long lofi radio tape mixes and white, pink, and brown noise samples.
+A calm beige focus-audio app with live lofi radio stations and white, pink, and brown noise samples.
 
-This GitHub Pages build uses native MP3 audio files so mobile browsers are more likely to keep playback running while the user switches to another app.
+The lofi page uses live HTTPS radio streams. The noise page keeps local native MP3 files for white, pink, and brown noise.
